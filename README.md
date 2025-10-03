@@ -158,7 +158,7 @@ Team Titan from Bangladesh created Dream 2050: ISS VR + AI Experience, an immers
 
 ## References
 
-* [NASA Open Data Portal]([https://data.nasa.gov/](https://data.nasa.gov/dataset/?q=International+Space+Station+&sort=score+desc%2C+metadata_modified+desc))
+* [NASA Open Data Portal](https://data.nasa.gov/dataset/?q=International+Space+Station+&sort=score+desc%2C+metadata_modified+desc)
 * [NASA Image and Video Library](https://images.nasa.gov/search?q=international%20space%20station&page=1&media=image&yearStart=1920&yearEnd=2025)
 * [International Space Station - NASA](https://www.nasa.gov/reference/international-space-station/)
 * [Growing Plants in Space - NASA](https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/)
