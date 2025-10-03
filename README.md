@@ -23,6 +23,23 @@ The Gemini AI Astro Bot Assistant provides real-time, data-backed guidance, tran
 
 ---
 
+## UnityAndGeminiV3.cs - AI Astrobot Integration
+
+This script integrates Google's **Gemini AI** with Unity for:
+
+- Conversational AI  
+- Image generation  
+- Multimedia analysis capabilities  
+
+---
+
+### 🚀 How to Run Locally
+
+1. **Get a Gemini API key**, then create a `gemini_api.json` file in your Unity project's `Assets/Resources` folder with the format:  
+   ```json
+   { "key": "YOUR_API_KEY" }
+
+
 ## Project Summary
 
 Dream 2050 goes beyond passive viewing — it is an **active astronaut journey** that:
