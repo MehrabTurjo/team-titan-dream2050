@@ -113,11 +113,6 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ---
 
-## Screenshots / Demo
-
-*(Coming soon — add VR captures, gameplay GIFs, or demo video links here.)*
-
----
 
 ## References
 
