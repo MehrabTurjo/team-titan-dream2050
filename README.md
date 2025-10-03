@@ -31,14 +31,23 @@ This script integrates Google's **Gemini AI** with Unity for:
 - Image generation  
 - Multimedia analysis capabilities  
 
----
-
-### 🚀 How to Run Locally
+### How to Run Locally
 
 1. **Get a Gemini API key**, then create a `gemini_api.json` file in your Unity project's `Assets/Resources` folder with the format:  
    ```json
    { "key": "YOUR_API_KEY" }
+2. Add the UnityAndGeminiV3.cs script to an empty GameObject in your scene.
+3. Assign the JSON file to the script's JSON API field in the Inspector.
+4. For chat functionality:
+* Create TextMeshPro Input Field and Text components.
+* Assign them to the script's Input Field and UI Text fields in the Inspector.
+5. (Optional configurations):
+* Bot Instructions → Customize AI behavior.
+* Image Prompt → Generate skyboxes.
+* Media File Path & Media Prompt → Analyze videos, audio, PDFs, or images (max 20MB).
+6. Press Play ▶ to start interacting with the AI.
 
+---
 
 ## Project Summary
 
