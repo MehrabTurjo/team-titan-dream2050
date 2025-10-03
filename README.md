@@ -12,6 +12,7 @@ The project bridges the gap between **limited ISS access** and **seamless global
 * **NASA Open Data**
 * **Gemini AI API** (intelligent assistance and contextual guidance)
 
+---
 ## 🎥 Demo Video – AI Astro Bot in Action
 
 Watch a quick screen recording of our **AI Astro Bot Assistant** guiding users through a mission.
