@@ -18,7 +18,7 @@ The project bridges the gap between **limited ISS access** and **seamless global
 Watch a quick screen recording of our **AI Astro Bot Assistant** guiding users through a mission.
 This video highlights real-time voice support, multilingual guidance, and NASA data–backed interaction.
 
-<a href="https://youtu.be/your-video-link" target="_blank">Watch on YouTube</a>
+<a href="https://youtu.be/jWjH_fgH-UA?si=-G1NtQi7OCT6Zw5t" target="_blank">Watch on YouTube</a>
 
 
 ---
