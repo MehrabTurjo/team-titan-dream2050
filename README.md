@@ -46,7 +46,7 @@ This script integrates Google's **Gemini AI** with Unity for:
 * Image Prompt → Generate skyboxes.
 * Media File Path & Media Prompt → Analyze videos, audio, PDFs, or images (max 20MB).
 6. Press Play ▶ to start interacting with the AI.
-`astrobot.png`
+`/astrobot.png`
 ---
 
 ## Project Summary
