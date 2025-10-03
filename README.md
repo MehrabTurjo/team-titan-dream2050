@@ -39,7 +39,6 @@ This script integrates Google's **Gemini AI** with Unity for:
 2. Add the `UnityAndGeminiV3.cs` script to an empty GameObject in your scene.
 3. Assign the JSON file to the script's JSON API field in the Inspector.
 4. For chat functionality:
-5. 
 * Create TextMeshPro Input Field and Text components.
 * Assign them to the script's Input Field and UI Text fields in the Inspector.
 5. (Optional configurations):
