@@ -98,7 +98,7 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ---
 
-## Challenge
+## Challenges
 
 * Realism vs. Accessibility – Making the ISS & NBL experience scientifically accurate yet lightweight and device-friendly.
 * Data & Asset Integration – Curating massive NASA imagery/video into optimized, interactive formats.
@@ -109,7 +109,12 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ## Solution
 
-*(Explain how Dream 2050 solves the challenge — VR immersion, AI guidance, real NASA data integration.)*
+Team Titan from Bangladesh created Dream 2050: ISS VR + AI Experience, an immersive simulation that transforms astronaut experiences into an interactive learning journey.
+
+* Cupola Mode lets users look through ISS windows, capture Earth photos, and link them to real NASA datasets on storms, forests, cities, and climate change.
+* Weightless Mission Mode recreates microgravity, where users float, repair solar panels, unload cargo, grow plants, and handle emergencies—just as astronauts train in the NBL.
+* AI Astro Bot Assistant acts as mission control—guiding users, answering questions with real NASA data, and turning the VR simulation into an educational companion.
+
 
 ---
 
