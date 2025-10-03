@@ -19,6 +19,7 @@ Watch a quick screen recording of our **AI Astro Bot Assistant** guiding users t
 This video highlights real-time voice support, multilingual guidance, and NASA data–backed interaction.
 
 [Watch on YouTube](https://youtu.be/jWjH_fgH-UA?si=-G1NtQi7OCT6Zw5t)
+<a href="https://youtu.be/jWjH_fgH-UA?si=-G1NtQi7OCT6Zw5t" target="_blank">Watch on YouTube</a>
 
 
 ---
