@@ -1,4 +1,4 @@
-## 🚀 Dream 2050 – Team Titan
+## Dream 2050 – Team Titan
 
 *"Dream has no fear. Space is not out of reach."*
 
@@ -13,16 +13,18 @@ The project bridges the gap between **limited ISS access** and **seamless global
 * **Gemini AI API** (intelligent assistance and contextual guidance)
 
 ---
-## 🎥 Demo Video – AI Astro Bot in Action
+
+## Demo Video – AI Astro Bot in Action
 
 Watch a quick screen recording of our **AI Astro Bot Assistant** guiding users through a mission.
 This demo highlights real-time voice support, multilingual guidance, and NASA data–backed interaction.
 
-👉 [Watch the Demo on YouTube](https://youtu.be/your-video-link)
-*(or [Google Drive Link](https://drive.google.com/your-drive-link) if hosted there)*
+# [Watch on YouTube](https://youtu.be/your-video-link)
 
 
-## 🌌 Project Summary
+---
+
+## Project Summary
 
 Dream 2050 goes beyond passive viewing — it is an **active astronaut journey** that:
 
@@ -57,7 +59,7 @@ Through these immersive experiences, users learn **problem-solving, teamwork, pl
 
 ---
 
-## 🌍 Benefits of Our Solution
+## Benefits of Our Solution
 
 * **Authentic Immersion**: Users live the astronaut life, not just watch it.
 * **Skill Development**: Learn teamwork, problem-solving, patience, and planetary care.
@@ -66,7 +68,7 @@ Through these immersive experiences, users learn **problem-solving, teamwork, pl
 
 ---
 
-## 🎯 Our Goal
+## Our Goal
 
 Our goal is to transform the **passive consumption of space content** into **active engagement**.
 By combining **VR, physics simulation, and AI guidance**, Dream 2050 shows that:
@@ -79,7 +81,7 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Unity (C#)** – game engine & scripting
 * **Blender** – 3D modeling
@@ -88,37 +90,37 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ---
 
-## 🤖 Use of AI
+## Use of AI
 
 *(Add details here about how Gemini AI was used — training guidance, dynamic Q&A, multilingual support, contextual feedback, etc.)*
 
 ---
 
-## 🧩 Challenge
+## Challenge
 
 *(Describe the challenge/problem from the hackathon prompt here — e.g., making space exploration accessible, educational engagement, climate awareness, etc.)*
 
 ---
 
-## 💡 Solution
+## Solution
 
 *(Explain how Dream 2050 solves the challenge — VR immersion, AI guidance, real NASA data integration.)*
 
 ---
 
-## 🌠 Impact
+## Impact
 
 *(Add measurable or expected impact here — inspiring students, improving climate awareness, making space training accessible worldwide, etc.)*
 
 ---
 
-## 📸 Screenshots / Demo
+## Screenshots / Demo
 
 *(Coming soon — add VR captures, gameplay GIFs, or demo video links here.)*
 
 ---
 
-## 📚 References
+## References
 
 * [NASA Open Data Portal](https://data.nasa.gov/)
 * [Unity](https://unity.com/)
@@ -126,7 +128,7 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ---
 
-## 🏆 Acknowledgments
+## Acknowledgments
 
 Thanks to **NASA Space Apps Challenge 2025**, open-source communities, and all contributors for inspiring innovation.
 
