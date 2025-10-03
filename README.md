@@ -91,7 +91,10 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ## Use of AI
 
-*(Add details here about how Gemini AI was used — training guidance, dynamic Q&A, multilingual support, contextual feedback, etc.)*
+* ChatGPT
+* Gemini
+* Canva
+* Veo3
 
 ---
 
