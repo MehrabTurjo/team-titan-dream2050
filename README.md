@@ -47,7 +47,7 @@ This script integrates Google's **Gemini AI** with Unity for:
 * Media File Path & Media Prompt → Analyze videos, audio, PDFs, or images (max 20MB).
 6. Press Play ▶ to start interacting with the AI.
 
-### Astrobot Conversational UI: 
+
 <p align="center"> <img src="./astrobot.png" alt="Astrobot Screenshot" width="500"/><br/> <strong>Astrobot Conversational UI</strong> </p>
 
 ---
