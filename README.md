@@ -35,7 +35,7 @@ Through these immersive experiences, users learn **problem-solving, teamwork, pl
 
 ---
 
-## 🛰️ Core Components
+## Core Components
 
 ### 1. Cupola Photography Mode (Earth Observation)
 
