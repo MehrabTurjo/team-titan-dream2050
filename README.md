@@ -112,7 +112,7 @@ We aim to inspire **global contribution to space exploration by 2050**.
 Team Titan from Bangladesh created Dream 2050: ISS VR + AI Experience, an immersive simulation that transforms astronaut experiences into an interactive learning journey.
 
 * Cupola Mode lets users look through ISS windows, capture Earth photos, and link them to real NASA datasets on storms, forests, cities, and climate change.
-* Weightless Mission Mode recreates microgravity, where users float, repair solar panels, unload cargo, grow plants, and handle emergencies—just as astronauts train in the NBL.
+* Weightless Mission Mode recreates microgravity, where users float, repair solar panels, unload cargo, grow plants, and handle emergencies as astronauts train in the NBL.
 * AI Astro Bot Assistant acts as mission control—guiding users, answering questions with real NASA data, and turning the VR simulation into an educational companion.
 
 
@@ -120,8 +120,10 @@ Team Titan from Bangladesh created Dream 2050: ISS VR + AI Experience, an immers
 
 ## Impact
 
-*(Add measurable or expected impact here — inspiring students, improving climate awareness, making space training accessible worldwide, etc.)*
-
+* Educational Access: Makes astronaut experiences available to students, classrooms, and the public—breaking geographic and resource barriers.
+* Earth Connection: Shows how Cupola photography aids disaster response and climate research, and how NBL-style teamwork applies to hospitals, factories, and schools.
+* STEM Inspiration: Sparks curiosity about science, technology, and space exploration—encouraging future scientists and innovators.
+* Emotional Resonance: Builds empathy for Earth by letting people feel the silence, fragility, and awe of space.
 ---
 
 
