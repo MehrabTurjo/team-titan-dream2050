@@ -100,7 +100,10 @@ We aim to inspire **global contribution to space exploration by 2050**.
 
 ## Challenge
 
-*(Describe the challenge/problem from the hackathon prompt here — e.g., making space exploration accessible, educational engagement, climate awareness, etc.)*
+* Realism vs. Accessibility – Making the ISS & NBL experience scientifically accurate yet lightweight and device-friendly.
+* Data & Asset Integration – Curating massive NASA imagery/video into optimized, interactive formats.
+* Interactivity & Engagement – Balancing astronaut training realism with fun, short missions for students.
+* Multi-Mode Design – Seamlessly linking Cupola visuals with NBL weightlessness without breaking immersion.
 
 ---
 
