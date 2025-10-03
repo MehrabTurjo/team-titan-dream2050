@@ -15,7 +15,6 @@ The project bridges the gap between **limited ISS access** and **seamless global
 ---
 
 ## Project Demonstration
-
 Watch a quick screen recording of our **AI Astro Bot Assistant** guiding users through a mission.
 This video highlights real-time voice support, multilingual guidance, and NASA data–backed interaction.
 
