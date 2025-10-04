@@ -54,7 +54,7 @@ This script integrates Google's **Gemini AI** with Unity for:
 
 ## ISS Unity (Project & Standalone)
 
-This repository contains a Unity project and a Windows standalone build inside the `ISS Unity` folder. The section below explains what you'll find there and provides clear, safe steps to run or open the project in the Unity Editor.
+This repository contains a Unity project and a Windows standalone build inside the `ISS Unity.zip` file. The section below explains what you'll find there and provides clear, safe steps to run or open the project in the Unity Editor.
 
 ### What you'll find
 
